@@ -1,7 +1,10 @@
 # OrangeHRM_Project_ITF
 This poject is about showing the skills and knowledge acquired during the ITF Manual Teasting course.
+
 Application under test:  https://opensource-demo.orangehrmlive.com/
+
 API Documentation:  https://orangehrm.github.io/orangehrm-api-doc/
+
 Used tools: JIRA, Zephyr Squad, PostMan, MySQL
 
 # Functional specifications
@@ -9,6 +12,7 @@ The Story below was cerated in JIRA and describes the functionalities for the "M
 
 # 1 Testing Section
 ## 1.1 Test planning
+
 AICI prezentam tot ce avem de testat, modulul si functionalitatile acestuia
 
 ### 1.1.1 Allocation of members and assigning roles
